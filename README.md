@@ -1166,3 +1166,4 @@ rn73부터는 앱 실행을 위해 npm start 실행 후 i나 a를 눌러 아이�
 - 내 위치 앱 시작하고 권한 있을 때 미리 받아놓기
 - refreshtoken이 만료되면 어떻게?(현재는 무한 419뜸)
 # react_native_clone_coding
+# react_native_clone_coding
